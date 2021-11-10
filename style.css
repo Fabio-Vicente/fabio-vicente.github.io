@@ -1,0 +1,89 @@
+/* /* /* Esquema de cores geradas pelo site https://coolors.co */
+
+/* * {
+    margin: 0px;
+    padding: 0px;
+} */
+
+body {
+    background-color: #f5edf0ff
+}
+
+#header {
+    background-color: #5899e2ff;
+    color: #f8f8ff;
+    max-width: 70%;
+    margin: 1em auto;
+}
+
+#header img {
+    padding: 16px;
+    background-color: #335c81ff;
+}
+
+#header .descricao {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.5em;
+    display: inline-block;
+    vertical-align: top;
+    text-align:justify;
+    position: relative;
+    left: 20px;
+}
+
+#header .descricao h1 {
+    background-color: #1b2845ff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    position: relative;
+    left: -24px;
+    margin-top: 0;
+    padding: 12px 180px 12px 180px;
+}
+
+#header .descricao p {
+    position: relative;
+    bottom: 3px;
+}
+
+#header .descricao .msg {
+    font-family: fantasy;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 2em;
+    position: absolute;
+    left: 1.5em;
+    top: 145px;
+}
+
+#header .contatos {
+    background-color: #f5edf0ff;
+    font-size: medium;
+}
+
+ol li {
+    font-size: large;
+    line-height: 3em;
+}
+
+h2 {
+    background-color: #5899e2;
+    text-align: center;
+}
+
+li {
+    font-size: medium;
+    line-height: 150%
+}
+
+.links {
+    line-height: 2em
+}
+
+ul li:nth-child(odd) {
+    color: #5899e2;
+}
